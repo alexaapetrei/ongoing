@@ -17,6 +17,9 @@
     }
     .cool {
     	color: #fff;
+    	width: 400px;
+    	display: block;
+    	margin: 50% auto;
     }
 
     </style>

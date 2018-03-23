@@ -16,10 +16,12 @@
     	background-size: cover;
     }
     .cool {
-    	color: #fff;
-    	width: 400px;
-    	display: block;
-    	margin: 50% auto;
+    	    color: #fff;
+    		width: 8s00px;
+    		display: block;
+   			margin: 50vh auto;
+			font-family: sans-serif;
+    		font-size: x-large;
     }
 
     </style>
